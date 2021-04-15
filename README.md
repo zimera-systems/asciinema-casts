@@ -1,4 +1,4 @@
-# Asciinema-screencasts
+# Asciinema Screencasts
 
 This repo is used to store some [Asciinema screencasts by Zimera Systems](https://asciinema.org/~zimera). Mostly in Bahasa Indonesia, unless stated otherwise. We are happy users of [Fish Shell](https://www.fishshell.com), no wonder that our screencasts are based on Fish (unless stated otherwise, of course).
 
