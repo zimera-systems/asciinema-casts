@@ -4,4 +4,5 @@ This repo is used to store some Asciinema screencasts by Zimera Systems. Mostly 
 
 1.  **Instalasi software di Linux tanpa *package manager* (apt, pacman, dll)**
 
-[<img src="https://asciinema.org/a/407327.svg)"](https://asciinema.org/a/407327)
+<a href="https://asciinema.org/a/407327" target="_blank"><img src="https://asciinema.org/a/407327.svg" /></a>
+
